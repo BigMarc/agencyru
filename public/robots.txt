@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bunny-agency.ru/sitemap.xml
